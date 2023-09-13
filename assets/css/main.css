@@ -2,24 +2,30 @@
     border-radius: 100px;
 }
 
+#menu nav {
+    margin-bottom: 15px;
+}
+
 #menu nav .btn {
     border-radius: 100px;
 }
 
-#menu div .loginic {
+/* #menu div .loginic {
     padding-top: 50px;
-  padding-right: 30px;
-  padding-bottom: 50px;
-  padding-left: 80px;
-}
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+} */
 
 #cover img {
     height: 50vh;
 }
+
 #description {
     padding-top: 120px;
     padding-bottom: 0;
 }
+
 h1.title {
     font-size: 55px;
     letter-spacing: 1px;
