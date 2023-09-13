@@ -10,13 +10,6 @@
     border-radius: 100px;
 }
 
-/* #menu div .loginic {
-    padding-top: 50px;
-    padding-right: 30px;
-    padding-bottom: 50px;
-    padding-left: 80px;
-} */
-
 #cover img {
     height: 50vh;
 }
@@ -62,6 +55,18 @@ h1.title {
 .course-intro {
     padding-top: 50px;
     padding-bottom: 160px;
+}
+
+.card-row .card {
+    flex-basis: 260px;
+    height: 380px;
+    flex-grow: 0;
+    flex-shrink: 0;
+    margin-left: -5rem;
+    transition: .3s;
+    margin-right: 0.25rem;
+    border-radius: 20px;
+    box-shadow: -15px 15px 20px 0px;
 }
 
 #follow {
